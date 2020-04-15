@@ -1,0 +1,62 @@
+C:\latiahan\lomba\lomba\bin\Debug\lomba.exe.config
+C:\latiahan\lomba\lomba\bin\Debug\lomba.exe
+C:\latiahan\lomba\lomba\bin\Debug\lomba.pdb
+C:\latiahan\lomba\lomba\bin\Debug\lomba.xml
+C:\latiahan\lomba\lomba\obj\Debug\lomba.Form1.resources
+C:\latiahan\lomba\lomba\obj\Debug\lomba.Resources.resources
+C:\latiahan\lomba\lomba\obj\Debug\lomba.vbproj.GenerateResource.Cache
+C:\latiahan\lomba\lomba\obj\Debug\lomba.exe
+C:\latiahan\lomba\lomba\obj\Debug\lomba.xml
+C:\latiahan\lomba\lomba\obj\Debug\lomba.pdb
+C:\latiahan\lomba\lomba\obj\Debug\lomba.Form2.resources
+C:\Users\KK\Documents\Visual Studio 2015\Projects\lomba\lomba\bin\Debug\lomba.exe.config
+C:\Users\KK\Documents\Visual Studio 2015\Projects\lomba\lomba\obj\Debug\lomba.exe
+C:\Users\KK\Documents\Visual Studio 2015\Projects\lomba\lomba\obj\Debug\lomba.xml
+C:\Users\KK\Documents\Visual Studio 2015\Projects\lomba\lomba\obj\Debug\lomba.pdb
+C:\Users\KK\Documents\Visual Studio 2015\Projects\lomba\lomba\bin\Debug\lomba.exe
+C:\Users\KK\Documents\Visual Studio 2015\Projects\lomba\lomba\bin\Debug\lomba.pdb
+C:\Users\KK\Documents\Visual Studio 2015\Projects\lomba\lomba\bin\Debug\lomba.xml
+C:\Users\KK\Documents\Visual Studio 2015\Projects\lomba\lomba\obj\Debug\lomba.vbprojResolveAssemblyReference.cache
+C:\Users\KK\Documents\Visual Studio 2015\Projects\lomba\lomba\obj\Debug\lomba.Resources.resources
+C:\Users\KK\Documents\Visual Studio 2015\Projects\lomba\lomba\obj\Debug\lomba.vbproj.GenerateResource.Cache
+C:\Users\KK\Documents\Visual Studio 2015\Projects\lomba\lomba\obj\Debug\lomba.TambahDataPelanggan.resources
+C:\Users\KK\Documents\Visual Studio 2015\Projects\lomba\lomba\obj\Debug\lomba.FormUtama.resources
+C:\Users\KK\Documents\Visual Studio 2015\Projects\lomba\lomba\obj\Debug\lomba.ImportDataPelanggan.resources
+C:\Users\KK\Documents\Visual Studio 2015\Projects\lomba\lomba\obj\Debug\lomba.EditDataPelanggan.resources
+C:\Users\KK\Documents\Visual Studio 2015\Projects\lomba\lomba\obj\Debug\lomba.TambahDataProdusen.resources
+C:\Users\KK\Documents\Visual Studio 2015\Projects\lomba\lomba\obj\Debug\lomba.EditDataProdusen.resources
+C:\Users\KK\Documents\Visual Studio 2015\Projects\lomba\lomba\obj\Debug\lomba.TambahDataProduk.resources
+F:\ \18 Okt\lomba\lomba\bin\Debug\lomba.exe.config
+F:\ \18 Okt\lomba\lomba\obj\Debug\lomba.exe
+F:\ \18 Okt\lomba\lomba\obj\Debug\lomba.xml
+F:\ \18 Okt\lomba\lomba\obj\Debug\lomba.pdb
+F:\ \18 Okt\lomba\lomba\bin\Debug\lomba.exe
+F:\ \18 Okt\lomba\lomba\bin\Debug\lomba.pdb
+F:\ \18 Okt\lomba\lomba\bin\Debug\lomba.xml
+F:\ \18 Okt\lomba\lomba\obj\Debug\lomba.vbprojResolveAssemblyReference.cache
+F:\ \18 Okt\lomba\lomba\obj\Debug\lomba.EditDataPelanggan.resources
+F:\ \18 Okt\lomba\lomba\obj\Debug\lomba.ImportDataPelanggan.resources
+F:\ \18 Okt\lomba\lomba\obj\Debug\lomba.TambahDataProduk.resources
+F:\ \18 Okt\lomba\lomba\obj\Debug\lomba.EditDataProdusen.resources
+F:\ \18 Okt\lomba\lomba\obj\Debug\lomba.FormUtama.resources
+F:\ \18 Okt\lomba\lomba\obj\Debug\lomba.TambahDataPelanggan.resources
+F:\ \18 Okt\lomba\lomba\obj\Debug\lomba.Resources.resources
+F:\ \18 Okt\lomba\lomba\obj\Debug\lomba.TambahDataProdusen.resources
+F:\ \18 Okt\lomba\lomba\obj\Debug\lomba.vbproj.GenerateResource.Cache
+E:\backup\Recovered data 08-15 10_31_48\Deep Scan result\Existing Partition(NTFS)\Software\file haniifa\18 Okt\lomba\lomba\bin\Debug\lomba.exe.config
+E:\backup\Recovered data 08-15 10_31_48\Deep Scan result\Existing Partition(NTFS)\Software\file haniifa\18 Okt\lomba\lomba\obj\Debug\lomba.exe
+E:\backup\Recovered data 08-15 10_31_48\Deep Scan result\Existing Partition(NTFS)\Software\file haniifa\18 Okt\lomba\lomba\obj\Debug\lomba.xml
+E:\backup\Recovered data 08-15 10_31_48\Deep Scan result\Existing Partition(NTFS)\Software\file haniifa\18 Okt\lomba\lomba\obj\Debug\lomba.pdb
+E:\backup\Recovered data 08-15 10_31_48\Deep Scan result\Existing Partition(NTFS)\Software\file haniifa\18 Okt\lomba\lomba\bin\Debug\lomba.exe
+E:\backup\Recovered data 08-15 10_31_48\Deep Scan result\Existing Partition(NTFS)\Software\file haniifa\18 Okt\lomba\lomba\bin\Debug\lomba.pdb
+E:\backup\Recovered data 08-15 10_31_48\Deep Scan result\Existing Partition(NTFS)\Software\file haniifa\18 Okt\lomba\lomba\bin\Debug\lomba.xml
+E:\backup\Recovered data 08-15 10_31_48\Deep Scan result\Existing Partition(NTFS)\Software\file haniifa\18 Okt\lomba\lomba\obj\Debug\lomba.vbprojResolveAssemblyReference.cache
+E:\backup\Recovered data 08-15 10_31_48\Deep Scan result\Existing Partition(NTFS)\Software\file haniifa\18 Okt\lomba\lomba\obj\Debug\lomba.EditDataPelanggan.resources
+E:\backup\Recovered data 08-15 10_31_48\Deep Scan result\Existing Partition(NTFS)\Software\file haniifa\18 Okt\lomba\lomba\obj\Debug\lomba.ImportDataPelanggan.resources
+E:\backup\Recovered data 08-15 10_31_48\Deep Scan result\Existing Partition(NTFS)\Software\file haniifa\18 Okt\lomba\lomba\obj\Debug\lomba.TambahDataProduk.resources
+E:\backup\Recovered data 08-15 10_31_48\Deep Scan result\Existing Partition(NTFS)\Software\file haniifa\18 Okt\lomba\lomba\obj\Debug\lomba.EditDataProdusen.resources
+E:\backup\Recovered data 08-15 10_31_48\Deep Scan result\Existing Partition(NTFS)\Software\file haniifa\18 Okt\lomba\lomba\obj\Debug\lomba.FormUtama.resources
+E:\backup\Recovered data 08-15 10_31_48\Deep Scan result\Existing Partition(NTFS)\Software\file haniifa\18 Okt\lomba\lomba\obj\Debug\lomba.TambahDataPelanggan.resources
+E:\backup\Recovered data 08-15 10_31_48\Deep Scan result\Existing Partition(NTFS)\Software\file haniifa\18 Okt\lomba\lomba\obj\Debug\lomba.Resources.resources
+E:\backup\Recovered data 08-15 10_31_48\Deep Scan result\Existing Partition(NTFS)\Software\file haniifa\18 Okt\lomba\lomba\obj\Debug\lomba.TambahDataProdusen.resources
+E:\backup\Recovered data 08-15 10_31_48\Deep Scan result\Existing Partition(NTFS)\Software\file haniifa\18 Okt\lomba\lomba\obj\Debug\lomba.vbproj.GenerateResource.Cache

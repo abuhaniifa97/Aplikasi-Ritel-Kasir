@@ -1,0 +1,176 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+lomba
+</name>
+</assembly>
+<members>
+<member name="T:lomba.latihanDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:lomba.latihanDataSet.data_pelangganDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:lomba.latihanDataSet.data_pelangganRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:lomba.latihanDataSet.data_pelangganRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:lomba.latihanDataSetTableAdapters.data_pelangganTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:lomba.latihanDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:lomba.latihanDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(lomba.latihanDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:lomba.latihanDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(lomba.latihanDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:lomba.latihanDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(lomba.latihanDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:lomba.latihanDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:lomba.latihanDataSetTableAdapters.TableAdapterManager.UpdateAll(lomba.latihanDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:lomba.latihanDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:lomba.latihanDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:lomba.lomba1DataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:lomba.lomba1DataSet.data_pelangganDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:lomba.lomba1DataSet.data_produkDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:lomba.lomba1DataSet.data_pelangganRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:lomba.lomba1DataSet.data_produkRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:lomba.lomba1DataSet.data_pelangganRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:lomba.lomba1DataSet.data_produkRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:lomba.lomba1DataSetTableAdapters.data_pelangganTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:lomba.lomba1DataSetTableAdapters.data_produkTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:lomba.lomba1DataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:lomba.lomba1DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(lomba.lomba1DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:lomba.lomba1DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(lomba.lomba1DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:lomba.lomba1DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(lomba.lomba1DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:lomba.lomba1DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:lomba.lomba1DataSetTableAdapters.TableAdapterManager.UpdateAll(lomba.lomba1DataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:lomba.lomba1DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:lomba.lomba1DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:lomba.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:lomba.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:lomba.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+</members>
+</doc>
